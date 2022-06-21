@@ -10,7 +10,7 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-## Dontations / Spenden
+## Donations / Spenden
 If somebody wants to support me for upcoming projects :)  
 - PayPal:  [![donate](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T25NKW8BXJ7J8)
 - Amazon Giftcard: https://www.amazon.de/Amazon-Gutschein-per-E-Mail-Amazon/dp/B0054PDOV8 - stefan.riese@me.com
@@ -89,3 +89,4 @@ SN74AHCT125D|U3|WLED_ESP32:SOIC127P600X175-14N|C155176
 
 ## Case
 - https://www.prusaprinters.org/prints/124223-wled-controller-base-housing
+- https://www.printables.com/model/163438-housing-for-esp32-wled-controller
