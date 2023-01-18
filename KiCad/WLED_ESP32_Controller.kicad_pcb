@@ -1314,7 +1314,7 @@
   (gr_text "OUT3" (at 148.59 100.33 90) (layer "B.SilkS") (tstamp 00000000-0000-0000-0000-000061dff8a1)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "WLED Controller V3\nby Stefan Riese\ngithub.com/Hasenpups/WLED_Controller_Public\n\nConnect to WiFi\nSSID: WLED-AP\nPASS: wled1234" (at 139.7 108.966) (layer "B.SilkS") (tstamp 074ac05b-3850-4f40-9c46-4aca586d9f86)
+  (gr_text "WLED Controller V3\nby Stefan Riese\ngithub.com/Hasenpups/WLED_ESP32_Controller\n\nConnect to WiFi\nSSID: WLED-AP\nPASS: wled1234" (at 139.7 108.966) (layer "B.SilkS") (tstamp 074ac05b-3850-4f40-9c46-4aca586d9f86)
     (effects (font (size 1.2 1.2) (thickness 0.3)) (justify left mirror))
   )
   (gr_text "ADC GND 3.3V IN1 GND IN2 GND" (at 92.202 105.41 90) (layer "B.SilkS") (tstamp 6854a6a8-63ff-4c94-814c-c6e414e71fc7)
