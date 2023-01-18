@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name WLED_ESP32)(type KiCad)(uri ${KIPRJMOD}/Project_Libraries/Project_Footprints)(options "")(descr ""))
+)

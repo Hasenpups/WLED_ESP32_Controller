@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SN74AHCT125D)(type Legacy)(uri ${KIPRJMOD}/Project_Libraries/Project_Symbols/SN74AHCT125D.lib)(options "")(descr ""))
+)
